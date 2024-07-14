@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "SK Curiosity";
+    src: url(../public/fonts/SKCuriosity-Regular.ttf);
+    font-weight: normal;
+}
+@font-face {
+    font-family: "SK Curiosity";
+    src: url(../public/fonts/SKCuriosity-Bold.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: "SK Curiosity";
+    src: url(../public/fonts/SKCuriosity-Medium.ttf);
+    font-weight:500;
+}
